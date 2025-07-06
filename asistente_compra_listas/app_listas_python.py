@@ -41,6 +41,7 @@ while items_needed:
         elif remove_option.lower() == 'no':
             print('No items were added or removed from your grocery list.')
             items_needed = False
+
     else:
         print("Please answer with 'yes' or 'no'.")
 

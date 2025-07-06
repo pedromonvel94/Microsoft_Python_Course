@@ -5,3 +5,4 @@ def greeting(name):
 result = greeting("Pedro")
 
 print(result)
+
