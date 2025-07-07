@@ -1,0 +1,3 @@
+'''
+build a simple calculator using input(), arithmetic operators, and print() to display results. Then try some data validation, write a program that uses len() and type() to validate user input, and make sure it meets specific criteria , like password length. Finally, convert some data. Create a script that takes user input and converts it to different data types using int(), float(), and str(), and then perform an operation on each piece of converted data.
+'''
