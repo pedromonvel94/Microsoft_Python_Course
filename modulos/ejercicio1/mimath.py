@@ -1,3 +1,12 @@
+import pandas as pd
+import numpy as np
+
+def calculate_mean(data):
+    return np.mean(data) 
+''' 
+En este módulo, hemos definido una función llamada calculate_mean que aprovecha la biblioteca NumPy (np) para calcular la media de una lista de números.
+'''
+
 def es_par(numero):
     if numero % 2 == 0:
         return True
